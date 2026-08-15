@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Building%20Beyond%20.NET%20🚀&fontSize=42&fontAlignY=35&desc=.NET%20Application%20Developer%20%E2%86%92%20DevOps%20%26%20Cloud&descAlignY=58" width="100%" />
+  <img src="Myprofile.png" width="100%" alt="Building Beyond .NET - DevOps & Cloud Journey" />
 </p>
 
 <h2 align="center">Hi, I'm Aasritha 👋</h2>
